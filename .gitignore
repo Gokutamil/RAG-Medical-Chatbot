@@ -1,0 +1,4 @@
+venv/
+logs/
+Medical_RAG.egg-info/
+.env
